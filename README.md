@@ -65,4 +65,47 @@ https://gist.github.com/primarypartition/9f084012594dbb6db2542718cb9aeba5
 
 
 12- Network
+-> DHCP
+
+https://gist.github.com/primarypartition/e75bd8a39889a6544cc5f38b00ae897f
+
+
+13- Network
+-> IP Addresses
+
+https://gist.github.com/primarypartition/edbba890dc0075a480122324099df107
+
+
+14- Network
+-> Communication
+
+https://gist.github.com/primarypartition/eef1ead75385b6756f7919811f81f5bd
+
+
+15- Network
+-> Switch
+
+https://gist.github.com/primarypartition/12890d5a72ed461e2dbc7a27d1763ad4
+
+
+16- Network
+-> Wireless
+
+https://gist.github.com/primarypartition/022bb30a632faf7b3e71bc63e5656635
+
+
+17- Network
+-> WAN
+
+https://gist.github.com/primarypartition/95861387a1a5f2e84aa865b6b85ea276
+
+
+18- Network
+-> Security
+
+https://gist.github.com/primarypartition/f8b7791d2358c1b7fa80faf6f8bd78d1
+
+
+19- Network
 -> 
+
