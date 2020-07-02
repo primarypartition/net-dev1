@@ -107,5 +107,7 @@ https://gist.github.com/primarypartition/f8b7791d2358c1b7fa80faf6f8bd78d1
 
 
 19- Network
--> 
+-> DNS
+
+https://gist.github.com/primarypartition/9a5659c1bcfa455485db342c367be7ed
 
